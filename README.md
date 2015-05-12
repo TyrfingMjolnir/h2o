@@ -11,7 +11,7 @@ For more information, please refer to the documentation at [h2o.github.io](http:
 
 ## HOW TO BUILD
 
-  * `git clone https://github.com/h2o/h2o.git`
-  * `./config`
-  * `make`
-  * `sudo make install`
+`git clone https://github.com/h2o/h2o.git`
+`./config`
+`make`
+`sudo make install`
