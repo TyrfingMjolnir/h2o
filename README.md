@@ -8,3 +8,10 @@ Copyright (c) 2014,2015 [DeNA Co., Ltd.](http://dena.com/), [Kazuho Oku](https:/
 H2O is a very fast HTTP server written in C, licensed under [the MIT License](http://opensource.org/licenses/MIT).  It can also be used as a library.
 
 For more information, please refer to the documentation at [h2o.github.io](http://h2o.github.io).
+
+
+git 
+
+./config
+make
+sudo make install
