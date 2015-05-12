@@ -13,5 +13,7 @@ For more information, please refer to the documentation at [h2o.github.io](http:
 git 
 
 ./config
+
 make
+
 sudo make install
