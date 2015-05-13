@@ -18,5 +18,5 @@ For more information, please refer to the documentation at [h2o.github.io](http:
 * `make`
 * `sudo make install`
 
-Project page: http://sf.net/projects/wslay/
+#Project page: http://sf.net/projects/wslay/
 * `git clone https://github.com/tatsuhiro-t/wslay.git`
