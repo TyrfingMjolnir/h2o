@@ -20,3 +20,6 @@ For more information, please refer to the documentation at [h2o.github.io](http:
 
 ## Project page: http://sf.net/projects/wslay/
 * `git clone https://github.com/tatsuhiro-t/wslay.git`
+
+## self
+* `git clone https://github.com/h2o/h2o.git`
