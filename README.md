@@ -10,11 +10,10 @@ H2O is a very fast HTTP server written in C, licensed under [the MIT License](ht
 For more information, please refer to the documentation at [h2o.github.io](http://h2o.github.io).
 
 ## HOW TO BUILD
-* `git clone https://github.com/h2o/h2o.git`
+* `git clone https://github.com/libuv/libuv`
 * `./config`
 * `make`
 * `sudo make install`
 
-* `git clone https://github.com/libuv/libuv`
-
-.
+Project page: http://sf.net/projects/wslay/
+* `git clone https://github.com/tatsuhiro-t/wslay.git`
