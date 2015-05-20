@@ -30,7 +30,7 @@ extern "C" {
 #include <stddef.h>
 #include <stdlib.h>
 #include <string.h>
-#include <yaml.h>
+#include "yaml.h"
 #include "yoml.h"
 
 static yoml_t *yoml__parse_node(yaml_parser_t *parser, yaml_event_type_t *last_event, const char *filename);
