@@ -7,4 +7,46 @@ Copyright (c) 2014,2015 [DeNA Co., Ltd.](http://dena.com/), [Kazuho Oku](https:/
 
 H2O is a very fast HTTP server written in C, licensed under [the MIT License](http://opensource.org/licenses/MIT).  It can also be used as a library.
 
-For more information, please refer to the documentation at [h2o.github.io](https://h2o.github.io).
+For more information, please refer to the documentation at [h2o.github.io](http://h2o.github.io).
+
+# HOW TO BUILD
+
+## PREREQUISITES for Mavericks
+
+* `git clone https://github.com/libuv/libuv`
+* `./config`
+* `make`
+* `sudo make install`
+
+## Project page: http://sf.net/projects/wslay/
+* `git clone https://github.com/tatsuhiro-t/wslay.git`
+* `./config`
+* `make`
+* `sudo make install`
+
+## self
+* `git clone https://github.com/h2o/h2o.git`
+* Press play in XCode
+
+
+
+## PREREQUISITES for Yosemite
+
+* `git clone https://github.com/libuv/libuv`
+* `./config`
+* `make`
+* `sudo make install`
+
+## Project page: http://sf.net/projects/wslay/
+* `git clone https://github.com/tatsuhiro-t/wslay.git`
+* `./config`
+* `make`
+* `sudo make install`
+
+or
+
+* brew install wslay
+
+## self
+* `git clone https://github.com/h2o/h2o.git`
+* Press play in XCode
