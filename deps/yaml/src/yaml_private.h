@@ -4,7 +4,7 @@
 #define YAML_VERSION_PATCH 5
 #define YAML_VERSION_STRING "0.1.5"
 
-#include <yaml.h>
+#include "yaml.h"
 
 #include <assert.h>
 #include <limits.h>
