@@ -11,7 +11,7 @@ For more information, please refer to the documentation at [h2o.github.io](http:
 
 # HOW TO BUILD
 
-## PREREQUISITES
+## PREREQUISITES for Mavericks
 
 * `git clone https://github.com/libuv/libuv`
 * `./config`
@@ -20,6 +20,33 @@ For more information, please refer to the documentation at [h2o.github.io](http:
 
 ## Project page: http://sf.net/projects/wslay/
 * `git clone https://github.com/tatsuhiro-t/wslay.git`
+* `./config`
+* `make`
+* `sudo make install`
 
 ## self
 * `git clone https://github.com/h2o/h2o.git`
+* Press play in XCode
+
+
+
+## PREREQUISITES for Yosemite
+
+* `git clone https://github.com/libuv/libuv`
+* `./config`
+* `make`
+* `sudo make install`
+
+## Project page: http://sf.net/projects/wslay/
+* `git clone https://github.com/tatsuhiro-t/wslay.git`
+* `./config`
+* `make`
+* `sudo make install`
+
+or
+
+* brew install wslay
+
+## self
+* `git clone https://github.com/h2o/h2o.git`
+* Press play in XCode
